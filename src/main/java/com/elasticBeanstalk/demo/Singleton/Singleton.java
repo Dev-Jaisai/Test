@@ -20,6 +20,8 @@ public class Singleton implements Cloneable {//thappa class
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
+        System.out.println("Hello");
+        System.out.println("Apple");
         return instance;
     }
 }
