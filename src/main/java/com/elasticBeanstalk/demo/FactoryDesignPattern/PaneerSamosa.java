@@ -13,6 +13,8 @@ class PaneerSamosa implements Samosa {
         System.out.println("Frying until crispy and cheesy!");
         System.out.println("🧀 Serving delicious Paneer Samosa!");
         System.out.println("🧀 Serving delicious Paneer Samosa!");
+        System.out.println("🧀 Serving delicious Chicken ");
+        System.out.println("🧀 Serving delicious Soup ");
 
     }
 }
